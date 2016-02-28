@@ -117,7 +117,7 @@
 /* Error message shown when there is a problem loading a video */
 "CHECK_CONNECTION"="加载视频 出现问题.\n请检查你的网络连接.";
 /* Generic action button label when the user chooses a thing */
- "CHOOSE" = "选择";
+"CHOOSE" = "选择";
 /* Title of dropdown from which the user can select topics on New Post Screen */
 "CHOOSE_A_TOPIC" = "选择一个话题...";
 /* Prompt text shown after user chooses to begin registering with an external service like Facebook or Google. {service} will be replaced with a service name like Google or Facebook. */
@@ -283,7 +283,7 @@
 /* Overlay error shown when logging in with an invalid email address */
 "INVALID_EMAIL_MESSAGE"="请确保你的 e-mail 地址格式正确并重试.";
 /* Overlay error shown when logging in with an invalid username or password */
-"INVALID_USERNAME_PASSWORD"=请确保你的姓名或者e-mail正确并重试.";
+"INVALID_USERNAME_PASSWORD"="请确保你的姓名或者e-mail正确并重试.";
 /* Alert dialog text asking whether it's okay to download large videos */
 "LARGE_DOWNLOAD_MESSAGE"="你选择的视频大小超过 1 GB.你确定要下载这个视频吗?";
 /* Alert dialog title when asking whether it's okay to download large videos */
