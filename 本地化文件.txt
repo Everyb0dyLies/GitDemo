@@ -19,7 +19,7 @@
 /* Label for action hint on check box when it's checked. */
 "ACCESSIBILITY_CHECKBOX_HINT_UNCHECKED" = "点击勾选.";
 /* Call to action for FIND A MOBILE-FRIENDLY COURSE */
-"ACCESSIBILITY_OPENS_MOBILE_FRIENDLY_COURSES"="Opens mobile friendly courses in browser.";
+"ACCESSIBILITY_OPENS_MOBILE_FRIENDLY_COURSES"="在浏览器打开对移动端友好的课程";
 /* Text spoken for Navigation Button on Course List Screen */
 "ACCESSIBILITY_NAVIGATION" = "导航栏";
 /* Call to action for Course content on Home Screen */
@@ -45,7 +45,7 @@
 /* Accessibility label for open on web button */
 "ACCESSIBILITY_OPEN_ON_WEB" = "在 Safari 中打开";
 /* Call to action for FIND A MOBILE-FRIENDLY COURSE */
-"ACCESSIBILITY_OPENS_MOBILE_FRIENDLY_COURSES"="Opens mobile friendly courses in browser.";
+"ACCESSIBILITY_OPENS_MOBILE_FRIENDLY_COURSES"="在浏览器打开对移动端友好的课程";
 /* Accessibility label for Pause Button in the Video Player */
 "ACCESSIBILITY_PAUSE" = "暂停";
 /* Accessibility label for Play Button in the Video Player */
@@ -177,7 +177,7 @@
 /* Label indicating that a course will end */
 "COURSE_ENDING"="Ending - {end_date}";
 /* Title of tab showing general course information */
-"COURSE_INFO_TAB_TITLE"="Course Info";
+"COURSE_INFO_TAB_TITLE"="课程信息";
 /* Option to show all different types of course content. Constrasts with 'Show Videos Only'. */
 "COURSE_MODE_FULL"="显示所有课程";
 /* Option to show only video course content. Constrasts with 'Show All Course Content'. */
@@ -193,7 +193,7 @@
 /* Create a new post button title used in discussions' posts screen */
 "CREATE_A_NEW_POST"="发布新帖子";
 /* Support message email title */
-"CUSTOMER_FEEDBACK" = "Customer Feeback";
+"CUSTOMER_FEEDBACK" = "客户反馈";
 /* Button text to initiate or confirm deletion */
 "DELETE"="删除";
 /* Discussion used in the segmented control Creating a new post */
@@ -409,7 +409,7 @@
 /* Descriptive text for why a limited profile is shown for users under 13, first line */
 "PROFILE.AGE_LIMIT" = "您必须年满13周岁并提供一份完整的个人的信息";
 /* Descriptive text for why a limited profile is shown for users under 13, rest of message */
-"PROFILE.UNDER_13_LINE_2" = "If you are over 13, make sure that you have specified a birth year when editing your profile.";
+"PROFILE.UNDER_13_LINE_2" = "如果你超过13岁, 请在你的资料中写明你的出生年月。";
 /* Error retrieving a profile */
 "PROFILE.UNABLE_TO_GET" = "无法加载资料";
 /* Error message when removing profile picture */
